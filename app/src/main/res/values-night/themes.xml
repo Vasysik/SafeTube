@@ -1,7 +1,7 @@
 <resources>
     <style name="Theme.SafeTube" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/purple_40</item>
-        <item name="colorSecondary">@color/purpleGrey40</item>
+        <item name="colorPrimary">@color/purple_80</item>
+        <item name="colorSecondary">@color/purpleGrey80</item>
         <item name="android:statusBarColor">?attr/colorSurfaceVariant</item>
         <item name="android:navigationBarColor">?attr/colorSurfaceVariant</item>
     </style>
