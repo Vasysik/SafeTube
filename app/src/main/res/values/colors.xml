@@ -1,9 +1,3 @@
 <resources>
-    <color name="purple_40">#6650A4</color>
-    <color name="purple_80">#D0BCFF</color>
-
-    <color name="purpleGrey40">#625B71</color>
-    <color name="purpleGrey80">#CCC2DC</color>
-
     <color name="black">#000000</color>
 </resources>
