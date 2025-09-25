@@ -4,4 +4,6 @@
 
     <color name="purpleGrey40">#625B71</color>
     <color name="purpleGrey80">#CCC2DC</color>
+
+    <color name="black">#000000</color>
 </resources>
